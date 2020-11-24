@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["John", "Paul", "George"]
-  element = "Ringo"
   add_element_to_end_of_array.push("Ringo")
 end 
 
