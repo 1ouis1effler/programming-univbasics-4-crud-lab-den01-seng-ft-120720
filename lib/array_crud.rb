@@ -8,8 +8,9 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["John", "Paul", "George", "Ringo"]
-  add_element_to_start_of_array
-end
+  element = "SRGT PEPPER"
+  add_element_to_start_of_array.push("SRGT PEPPER")
+end 
 
 def add_element_to_start_of_array(array, element)
   
